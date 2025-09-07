@@ -1,0 +1,1 @@
+package com.fitness.aiservice.model;
